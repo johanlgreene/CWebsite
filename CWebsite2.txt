@@ -2,3 +2,5 @@ Cariverse Website
 
 Welcome to the best website for building your Caribbean network, 
 and find the best startups to work with run by Caribbean founders.
+
+We're currently partnered with the Howard University Blockchain Lab and Caribeban Blockchain Network.
